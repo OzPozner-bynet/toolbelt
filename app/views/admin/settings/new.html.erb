@@ -1,0 +1,5 @@
+<%= form_for(@setting, url: new_admin_setting_path(@setting.var), method: 'patch') do |f| %>
+  <%= f.text_area :var, rows: 1 %>
+  <%= f.text_area :value, rows: 1 %>
+  <%= f.submit %>
+<% end %>

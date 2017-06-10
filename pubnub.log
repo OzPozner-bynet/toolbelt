@@ -1,0 +1,1366 @@
+# Logfile created on 2017-06-06 16:21:52 +0300 by logger.rb/56438
+I, [2017-06-06T16:21:52.135949 #5868]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T16:21:52.136939 #5868] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:21:52.137943 #5868] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:21:52.137943 #5868] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:21:52.139941 #5868] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496755312&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=a32605e8-68bb-4c5c-9101-ad53416cfeb7&channel=video.*&signature=eWl7DyVeDz-acz-36Ob0e8qBWEgYShqZ6dwk1GZE9-g=
+D, [2017-06-06T16:21:52.423953 #5868] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:21:52.423953 #5868] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:21:52.424957 #5868] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:21:52.425954 #5868] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:21:52.426952 #5868] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:21:52.426952 #5868] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:21:52.427955 #5868] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496755312&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=a32605e8-68bb-4c5c-9101-ad53416cfeb7&channel=video.*&signature=GTLw04Fl3ONgAHV4qzgq_jEiEENtazyS1A32ZeLitx4=
+D, [2017-06-06T16:21:52.580978 #5868] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:21:52.581965 #5868] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:21:52.581965 #5868] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:21:52.583970 #5868] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:21:52.583970 #5868] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:21:52.583970 #5868] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:21:52.584963 #5868] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496755312&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=a32605e8-68bb-4c5c-9101-ad53416cfeb7&channel=notifications.*&signature=k5NQ06cDlKPnpV_4SuDoIvAWG5OTvNwx0bDC13GzIus=
+D, [2017-06-06T16:21:52.737972 #5868] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:21:52.737972 #5868] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:21:52.738976 #5868] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T16:32:57.866599 #4240]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T16:32:57.868556 #4240] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:32:57.869556 #4240] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:32:57.869556 #4240] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:32:57.869556 #4240] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496755977&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=191f35b0-e596-4fa4-a986-9eaf5a10ae98&channel=video.*&signature=9-984nOvyPe4pD8jfYmoWDcPRQ0rO9oEJv9u6Z0uOaE=
+D, [2017-06-06T16:32:58.679599 #4240] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:32:58.679599 #4240] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:32:58.680598 #4240] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:32:58.681596 #4240] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:32:58.682600 #4240] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:32:58.682600 #4240] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:32:58.683599 #4240] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496755978&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=191f35b0-e596-4fa4-a986-9eaf5a10ae98&channel=video.*&signature=ArA4TewIwHhuaKYUTxU-K_64hfM0w60brkp-YruuuEA=
+D, [2017-06-06T16:32:59.116615 #4240] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:32:59.116615 #4240] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:32:59.116615 #4240] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:32:59.118625 #4240] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:32:59.119617 #4240] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:32:59.119617 #4240] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:32:59.119617 #4240] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496755979&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=191f35b0-e596-4fa4-a986-9eaf5a10ae98&channel=notifications.*&signature=479i5LmB37xd7iX3dcq-Ir0ayEfLAX7mp487VyhD8FU=
+D, [2017-06-06T16:32:59.552633 #4240] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:32:59.552633 #4240] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:32:59.553639 #4240] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T16:35:32.852455 #8060]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T16:35:32.854455 #8060] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:35:32.854455 #8060] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:35:32.854455 #8060] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:35:32.856457 #8060] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756132&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=4420f5e6-b161-4c73-a605-288b2b643774&channel=video.*&signature=ynU_wmnNRVqz16VRQPJ168ff7M4gC5BGZ47Q-0CRicY=
+D, [2017-06-06T16:35:33.586491 #8060] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:35:33.586491 #8060] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:35:33.586491 #8060] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:35:33.588491 #8060] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:35:33.589492 #8060] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:35:33.589492 #8060] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:35:33.590501 #8060] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756133&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=4420f5e6-b161-4c73-a605-288b2b643774&channel=video.*&signature=OO7BFGI5T6WgRXZMx6OXVsSR5PMaRazucEdoEUUtX40=
+D, [2017-06-06T16:35:34.029522 #8060] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:35:34.030511 #8060] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:35:34.030511 #8060] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:35:34.032506 #8060] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:35:34.033512 #8060] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:35:34.033512 #8060] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:35:34.033512 #8060] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756134&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=4420f5e6-b161-4c73-a605-288b2b643774&channel=notifications.*&signature=kBwi3NrvXM32NAbrEUmUU2mL2b1DxQmCFM9UN_FsStU=
+D, [2017-06-06T16:35:34.455525 #8060] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:35:34.455525 #8060] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:35:34.456530 #8060] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T16:39:36.655310 #3496]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T16:39:36.658302 #3496] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:39:36.658302 #3496] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:39:36.659300 #3496] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:39:36.660302 #3496] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756376&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=a97619e7-acbc-4985-b2a5-7416e00d08c1&channel=video.*&signature=2tom5iuCtFl1ep-5sHIP4GvB6mwix2-FEzUlprBN6A0=
+D, [2017-06-06T16:39:36.988322 #3496] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:39:36.988322 #3496] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:39:36.988322 #3496] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:39:36.990323 #3496] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:39:36.991318 #3496] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:39:36.991318 #3496] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:39:36.992317 #3496] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756376&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=a97619e7-acbc-4985-b2a5-7416e00d08c1&channel=video.*&signature=RfKWX0h2AaRAh5tJ2QOWWucnL3LaqGELbjPL3AUZ96c=
+D, [2017-06-06T16:39:37.160324 #3496] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:39:37.160324 #3496] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:39:37.161329 #3496] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:39:37.162327 #3496] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:39:37.163325 #3496] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:39:37.163325 #3496] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:39:37.163325 #3496] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756377&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=a97619e7-acbc-4985-b2a5-7416e00d08c1&channel=notifications.*&signature=JxxEJ3w1fbE-D1F_riohoL9aYPQSDHdtN8qLMv4_4hg=
+D, [2017-06-06T16:39:37.326343 #3496] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:39:37.326343 #3496] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:39:37.327340 #3496] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T16:40:15.184024 #10292]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T16:40:15.186028 #10292] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:40:15.187024 #10292] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:40:15.187024 #10292] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:40:15.188016 #10292] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756415&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=aadc9adf-b6a7-4d6f-bfdf-8bab42aac7d0&channel=video.*&signature=aH6PkJGW6H5j6dEDdYBI566tDKNp66iNUXR_76mjISg=
+D, [2017-06-06T16:40:15.432025 #10292] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:40:15.432025 #10292] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:40:15.433026 #10292] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:40:15.434038 #10292] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:40:15.435023 #10292] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:40:15.435023 #10292] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:40:15.436031 #10292] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756415&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=aadc9adf-b6a7-4d6f-bfdf-8bab42aac7d0&channel=video.*&signature=anYNb3Z74Oggw5Ql3gxnBC4RzNC49N06VpGrll6MltM=
+D, [2017-06-06T16:40:15.599032 #10292] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:40:15.599032 #10292] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:40:15.599032 #10292] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:40:15.601036 #10292] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:40:15.601036 #10292] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:40:15.602036 #10292] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:40:15.602036 #10292] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756415&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=aadc9adf-b6a7-4d6f-bfdf-8bab42aac7d0&channel=notifications.*&signature=7vbyHp0a1lTdVzFeL7QuMSdvMDxtT1J7qNTPPrX5mx0=
+D, [2017-06-06T16:40:15.766052 #10292] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:40:15.767051 #10292] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:40:15.767051 #10292] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T16:42:50.015904 #5536]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T16:42:50.017909 #5536] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:42:50.017909 #5536] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:42:50.018905 #5536] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:42:50.019903 #5536] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756570&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=f5417e9a-4326-4e87-96bc-a9b0c9f58cfc&channel=video.*&signature=SrQSLfo2--fRo11D6GgdRyHkSgZJ6y7cfyS1w1jykPQ=
+D, [2017-06-06T16:42:50.253914 #5536] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:42:50.254912 #5536] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:42:50.254912 #5536] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:42:50.255909 #5536] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:42:50.256914 #5536] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:42:50.256914 #5536] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:42:50.257913 #5536] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756570&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f5417e9a-4326-4e87-96bc-a9b0c9f58cfc&channel=video.*&signature=aI0J-X7xPbH4XJdM5DkF3QnlNgynVijsh7F6nYtW76Y=
+D, [2017-06-06T16:42:50.420933 #5536] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:42:50.420933 #5536] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:42:50.421920 #5536] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:42:50.422919 #5536] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:42:50.423920 #5536] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:42:50.423920 #5536] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:42:50.423920 #5536] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496756570&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f5417e9a-4326-4e87-96bc-a9b0c9f58cfc&channel=notifications.*&signature=uNkcwXxoGK4nnRLHsiP_kS6lPJDPFtJ0qY4pWO5Pl4k=
+D, [2017-06-06T16:42:50.587926 #5536] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:42:50.587926 #5536] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:42:50.587926 #5536] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T16:50:33.239510 #10032]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T16:50:33.241522 #10032] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:50:33.242512 #10032] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:50:33.242512 #10032] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:50:33.244507 #10032] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757033&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=bdd71d61-629d-45ca-bd9a-1baa16cdf7d1&channel=video.*&signature=cGbrnL-WeglRiXAREykRjRKL0dj8yOsicAtZ26011Qo=
+D, [2017-06-06T16:50:34.048548 #10032] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:50:34.048548 #10032] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:50:34.049545 #10032] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:50:34.050551 #10032] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:50:34.051550 #10032] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:50:34.051550 #10032] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:50:34.052546 #10032] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757034&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=bdd71d61-629d-45ca-bd9a-1baa16cdf7d1&channel=video.*&signature=GFOc_uNosBOa3YMgREPyATvTSt-OzYI4qfTIkG6Y5uU=
+D, [2017-06-06T16:50:34.485565 #10032] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:50:34.485565 #10032] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:50:34.485565 #10032] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:50:34.487565 #10032] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:50:34.488563 #10032] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:50:34.488563 #10032] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:50:34.488563 #10032] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757034&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=bdd71d61-629d-45ca-bd9a-1baa16cdf7d1&channel=notifications.*&signature=LUcdS5ATYlgN5w-0T-Id6qjtZiuffNARIfYsXpIDFNM=
+D, [2017-06-06T16:50:34.912585 #10032] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:50:34.913584 #10032] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:50:34.913584 #10032] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:55:06.502666 #10032] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:55:06.503665 #10032] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:55:06.503665 #10032] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:55:06.504663 #10032] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757306&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=ff0f49e50dedba1c5c1065acc3940b15&uuid=bdd71d61-629d-45ca-bd9a-1baa16cdf7d1&channel=notifications.1&signature=tC-T51o87Q9vAvpFp-agBqbcmxGf2qMtm7nFnCbHt-0=
+D, [2017-06-06T16:55:07.250700 #10032] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:55:07.250700 #10032] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:55:07.251703 #10032] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T16:58:25.076500 #1272]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T16:58:25.078499 #1272] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:58:25.079510 #1272] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:58:25.079510 #1272] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:58:25.080501 #1272] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757505&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=eb8ecb7d-869c-4a6c-9406-662b006416a2&channel=video.*&signature=6yUfvOJTYkDmQHrh54RiXKQlCwfRfWIVMILTHY634W8=
+D, [2017-06-06T16:58:25.908545 #1272] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:58:25.908545 #1272] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:58:25.909539 #1272] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:58:25.910539 #1272] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:58:25.911538 #1272] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:58:25.911538 #1272] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:58:25.912539 #1272] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757505&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=eb8ecb7d-869c-4a6c-9406-662b006416a2&channel=video.*&signature=z4rPywGiiPPj4rEW8ETITLUa-4BRugst7xKLZrFSSTA=
+D, [2017-06-06T16:58:26.360562 #1272] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:58:26.360562 #1272] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:58:26.360562 #1272] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T16:58:26.362560 #1272] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T16:58:26.362560 #1272] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T16:58:26.363558 #1272] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T16:58:26.363558 #1272] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757506&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=eb8ecb7d-869c-4a6c-9406-662b006416a2&channel=notifications.*&signature=cyKm7ESIGM7iaHcT9yP40hMVmkLI2XoULhiqESj-B0I=
+D, [2017-06-06T16:58:26.786575 #1272] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T16:58:26.786575 #1272] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T16:58:26.787580 #1272] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T17:04:03.259601 #6036]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T17:04:03.261547 #6036] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T17:04:03.261547 #6036] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T17:04:03.262545 #6036] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T17:04:03.263554 #6036] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757843&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=8e1ea448-ac2d-4431-8dfb-2e73e5b4daa5&channel=video.*&signature=nNf_RUSESHwYqv_Uh0r6EWIZs31667vXYE1kW6fGbys=
+D, [2017-06-06T17:04:04.098587 #6036] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T17:04:04.099587 #6036] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T17:04:04.099587 #6036] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T17:04:04.101584 #6036] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T17:04:04.101584 #6036] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T17:04:04.102584 #6036] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T17:04:04.102584 #6036] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757844&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=8e1ea448-ac2d-4431-8dfb-2e73e5b4daa5&channel=video.*&signature=290o7X_rtLCMhbEX-OPvhPinCaSJMvGl7V8kW73QRcA=
+D, [2017-06-06T17:04:04.585657 #6036] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T17:04:04.586657 #6036] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T17:04:04.586657 #6036] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T17:04:04.588605 #6036] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T17:04:04.588605 #6036] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T17:04:04.589609 #6036] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T17:04:04.591088 #6036] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757844&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=8e1ea448-ac2d-4431-8dfb-2e73e5b4daa5&channel=notifications.*&signature=vyfY0Hydsn-gd8VC-91HqGX8pku5CxgfHK88o2u8y5o=
+D, [2017-06-06T17:04:05.032634 #6036] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T17:04:05.033629 #6036] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T17:04:05.033629 #6036] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T17:05:29.516382 #9568]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T17:05:29.518393 #9568] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T17:05:29.519381 #9568] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T17:05:29.519381 #9568] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T17:05:29.520382 #9568] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757929&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=9ff59920-e3d8-4fac-bc37-e95a3149ee0e&channel=video.*&signature=ETbiku9qi8_TTlHRTfPQEas5XIf59boGTGFB5yO63mI=
+D, [2017-06-06T17:05:30.279413 #9568] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T17:05:30.279413 #9568] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T17:05:30.280414 #9568] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T17:05:30.281426 #9568] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T17:05:30.282420 #9568] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T17:05:30.282420 #9568] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T17:05:30.283419 #9568] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757930&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=9ff59920-e3d8-4fac-bc37-e95a3149ee0e&channel=video.*&signature=IOOn92GVIWcAfc9HtPbth637WEhsyRA1qa6F9eTy6AY=
+D, [2017-06-06T17:05:30.726434 #9568] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T17:05:30.727436 #9568] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T17:05:30.727436 #9568] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T17:05:30.729446 #9568] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T17:05:30.730438 #9568] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T17:05:30.730438 #9568] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T17:05:30.730438 #9568] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496757930&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=9ff59920-e3d8-4fac-bc37-e95a3149ee0e&channel=notifications.*&signature=O78EeCjLl4Ur5QuLLrh2p0zfkBG-2kYTpT4KEWeiBug=
+D, [2017-06-06T17:05:31.171453 #9568] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T17:05:31.171453 #9568] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T17:05:31.171453 #9568] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T17:07:27.034616 #9568] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T17:07:27.035606 #9568] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T17:07:27.035606 #9568] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T17:07:27.036612 #9568] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496758047&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=ebe89f1b360bed3e038862f871d9bbcb&uuid=9ff59920-e3d8-4fac-bc37-e95a3149ee0e&channel=notifications.2&signature=u308XzgJBkTB4G6JpPqGyeksG8sCf4YVud8k5cIFxhg=
+D, [2017-06-06T17:07:27.781649 #9568] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T17:07:27.781649 #9568] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T17:07:27.782648 #9568] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T21:20:01.610525 #7404]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T21:20:01.612472 #7404] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T21:20:01.613471 #7404] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T21:20:01.613471 #7404] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T21:20:01.615472 #7404] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496773201&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=f734e980-b84c-4595-98a0-f11a700da635&channel=video.*&signature=1tdsqVW7loK7MdQDxxWS6q34YOSd9e1TkxRxZlbibKY=
+D, [2017-06-06T21:20:02.437507 #7404] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T21:20:02.438521 #7404] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T21:20:02.438521 #7404] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T21:20:02.440508 #7404] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T21:20:02.441514 #7404] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T21:20:02.441514 #7404] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T21:20:02.442509 #7404] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496773202&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f734e980-b84c-4595-98a0-f11a700da635&channel=video.*&signature=cO0lVnNrX-CycPzAnVjQUf56heqeBXxmks6ru3NhoVg=
+D, [2017-06-06T21:20:02.889528 #7404] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T21:20:02.889528 #7404] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T21:20:02.889528 #7404] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T21:20:02.891528 #7404] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T21:20:02.892563 #7404] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T21:20:02.892563 #7404] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T21:20:02.893529 #7404] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496773202&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f734e980-b84c-4595-98a0-f11a700da635&channel=notifications.*&signature=aN3vVjDY38477oTiNGnG9F2mHi629ipTKYD1-MJVYdU=
+D, [2017-06-06T21:20:03.336558 #7404] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T21:20:03.337558 #7404] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T21:20:03.337558 #7404] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-06T21:20:49.471657 #11228]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-06T21:20:49.474603 #11228] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T21:20:49.474603 #11228] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T21:20:49.475610 #11228] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T21:20:49.476602 #11228] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496773249&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=f6837948-f519-42ae-917c-75b6dbee89b3&channel=video.*&signature=Ztj-lFoRD3nHOB0vwtxTmoV0dLLNBlWsbvwdo-wP36g=
+D, [2017-06-06T21:20:50.239634 #11228] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T21:20:50.240647 #11228] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T21:20:50.240647 #11228] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T21:20:50.242634 #11228] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T21:20:50.243639 #11228] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T21:20:50.243639 #11228] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T21:20:50.244638 #11228] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496773250&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f6837948-f519-42ae-917c-75b6dbee89b3&channel=video.*&signature=Z14MYdtatBlrheRhICwDfMBg-ToVd-iOHG-NB64NxQw=
+D, [2017-06-06T21:20:50.684662 #11228] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T21:20:50.685663 #11228] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T21:20:50.685663 #11228] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T21:20:50.687664 #11228] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T21:20:50.688655 #11228] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T21:20:50.688655 #11228] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T21:20:50.689655 #11228] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496773250&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f6837948-f519-42ae-917c-75b6dbee89b3&channel=notifications.*&signature=R-d5Da_B0l5OIkDLmRv4q8Mabzat-fr5YtWYEOWR-hQ=
+D, [2017-06-06T21:20:51.129671 #11228] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T21:20:51.129671 #11228] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T21:20:51.129671 #11228] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-06T21:23:30.057752 #11228] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-06T21:23:30.058744 #11228] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-06T21:23:30.058744 #11228] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-06T21:23:30.059749 #11228] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496773410&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=5c6822ce833df4deec518586ac222196&uuid=f6837948-f519-42ae-917c-75b6dbee89b3&channel=notifications.3&signature=oNkk5q50cyE6l4R5ltbchRk3FSIP797GHbrwjRV1FYs=
+D, [2017-06-06T21:23:30.828786 #11228] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-06T21:23:30.828786 #11228] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-06T21:23:30.829780 #11228] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+E, [2017-06-06T22:51:17.135059 #7404] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-06T22:51:17.290059 #7404] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-06T23:14:02.163785 #7404] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-06T23:14:02.314841 #7404] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-06T23:52:22.808135 #7404] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-06T23:52:22.809126 #7404] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-06T23:52:22.976140 #7404] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-06T23:52:23.136146 #7404] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-07T04:58:20.261783 #7404] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-07T04:58:20.419787 #7404] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+I, [2017-06-08T10:02:49.506884 #6672]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-08T10:02:49.508836 #6672] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:02:49.508836 #6672] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:02:49.508836 #6672] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:02:49.510835 #6672] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905369&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=f94ece25-6bc8-4ae8-995e-03ce9e1587d4&channel=video.*&signature=kiMr_E25KVYpjYltz1fkeMaHRq9mt3wdArE1XxCnQ-A=
+D, [2017-06-08T10:02:50.310934 #6672] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:02:50.311869 #6672] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:02:50.311869 #6672] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:02:50.313871 #6672] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:02:50.314881 #6672] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:02:50.314881 #6672] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:02:50.314881 #6672] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905370&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f94ece25-6bc8-4ae8-995e-03ce9e1587d4&channel=video.*&signature=ciJtQKXWBsMioEyT5VXBVKsUyrIwBXL5J-hd1YkpSqU=
+D, [2017-06-08T10:02:50.742892 #6672] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:02:50.742892 #6672] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:02:50.742892 #6672] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:02:50.744891 #6672] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:02:50.745891 #6672] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:02:50.745891 #6672] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:02:50.745891 #6672] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905370&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f94ece25-6bc8-4ae8-995e-03ce9e1587d4&channel=notifications.*&signature=BsBydHMF7LCi5fgAAguQolWBD2koztcFESFXyOgB_uE=
+D, [2017-06-08T10:02:51.180913 #6672] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:02:51.181907 #6672] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:02:51.181907 #6672] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-08T10:03:27.880545 #3384]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-08T10:03:27.882544 #3384] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:03:27.883542 #3384] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:03:27.883542 #3384] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:03:27.884544 #3384] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905407&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=db567253-8962-413a-90cb-c14be2a64a9a&channel=video.*&signature=BCCYO5p18Hkl_xUy-BtFIShYXi5CoK4ov1J054qI4sA=
+D, [2017-06-08T10:03:28.620574 #3384] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:03:28.620574 #3384] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:03:28.621576 #3384] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:03:28.622575 #3384] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:03:28.623579 #3384] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:03:28.623579 #3384] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:03:28.624579 #3384] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905408&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=db567253-8962-413a-90cb-c14be2a64a9a&channel=video.*&signature=ZqC134FS86l4tOmYT6QnE0WpAwf068Dn586MmQT5PVM=
+D, [2017-06-08T10:03:29.054593 #3384] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:03:29.054593 #3384] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:03:29.054593 #3384] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:03:29.056605 #3384] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:03:29.057599 #3384] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:03:29.057599 #3384] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:03:29.057599 #3384] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905409&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=db567253-8962-413a-90cb-c14be2a64a9a&channel=notifications.*&signature=yC-mstlEzFMwnrCfMmjCcwVCvIrrozJKxEY44q3AZsM=
+D, [2017-06-08T10:03:29.502620 #3384] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:03:29.503624 #3384] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:03:29.503624 #3384] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-08T10:11:10.932140 #7684]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-08T10:11:10.934142 #7684] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:11:10.935141 #7684] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:11:10.935141 #7684] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:11:10.937142 #7684] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905870&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=1f60e8ea-f922-4f99-99a1-66b18daea36b&channel=video.*&signature=BsotElIcjA0xVGcFDfrLXlsGiy1Mn4KTWadPeIBk0iw=
+D, [2017-06-08T10:11:11.235154 #7684] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:11:11.236159 #7684] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:11:11.236159 #7684] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:11:11.238155 #7684] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:11:11.239158 #7684] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:11:11.239158 #7684] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:11:11.240165 #7684] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905871&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=1f60e8ea-f922-4f99-99a1-66b18daea36b&channel=video.*&signature=6-JLSLQPqG2hz6xsph4PTQxJKK_9Pgjjd_JJccbW1w0=
+D, [2017-06-08T10:11:11.393163 #7684] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:11:11.393163 #7684] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:11:11.393163 #7684] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:11:11.395173 #7684] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:11:11.396167 #7684] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:11:11.396167 #7684] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:11:11.396167 #7684] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905871&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=1f60e8ea-f922-4f99-99a1-66b18daea36b&channel=notifications.*&signature=dGmjhUTEAelAf2uEw69_xq9fyYhrLtdY8qo_-INPPJg=
+D, [2017-06-08T10:11:11.548174 #7684] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:11:11.549179 #7684] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:11:11.549179 #7684] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-08T10:11:53.551040 #9892]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-08T10:11:53.553052 #9892] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:11:53.554040 #9892] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:11:53.554040 #9892] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:11:53.556043 #9892] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905913&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=ced95483-a14d-49fb-8d4c-e15acf74562a&channel=video.*&signature=WFfVCqNRY9QpTwsiOR_zbugaJHlnDz44nxF8sO0gpDg=
+D, [2017-06-08T10:11:53.767047 #9892] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:11:53.768050 #9892] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:11:53.768050 #9892] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:11:53.770053 #9892] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:11:53.770053 #9892] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:11:53.771056 #9892] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:11:53.771056 #9892] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905913&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=ced95483-a14d-49fb-8d4c-e15acf74562a&channel=video.*&signature=9A3aFZCOEOp5AHW4c85QeDKlMNaStA8EMZaqxBJm85Y=
+D, [2017-06-08T10:11:53.922060 #9892] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:11:53.923052 #9892] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:11:53.923052 #9892] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:11:53.924056 #9892] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:11:53.925060 #9892] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:11:53.925060 #9892] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:11:53.926056 #9892] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905913&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=ced95483-a14d-49fb-8d4c-e15acf74562a&channel=notifications.*&signature=BI0xU0Mra_4InbvKFxuZDSqfFb9pV1PN5fmXBuuEbRw=
+D, [2017-06-08T10:11:54.077066 #9892] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:11:54.077066 #9892] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:11:54.078063 #9892] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-08T10:12:47.910510 #7756]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-08T10:12:47.913458 #7756] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:12:47.913458 #7756] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:12:47.914456 #7756] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:12:47.915457 #7756] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905967&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=6fc67461-4da5-44f1-9d8c-b2e3ce8946b2&channel=video.*&signature=8i0zJ6cmX-2Z5j5EH9y_KX9Vr85IAzZ26PqysjP3Nko=
+D, [2017-06-08T10:12:48.127464 #7756] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:12:48.128467 #7756] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:12:48.128467 #7756] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:12:48.130467 #7756] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:12:48.130467 #7756] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:12:48.131461 #7756] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:12:48.131461 #7756] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905968&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=6fc67461-4da5-44f1-9d8c-b2e3ce8946b2&channel=video.*&signature=R25nVksok90kMQW3MjcNtL9j2dmtyM9HFkaDyoEI_IM=
+D, [2017-06-08T10:12:48.283481 #7756] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:12:48.284472 #7756] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:12:48.284472 #7756] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T10:12:48.286474 #7756] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T10:12:48.287474 #7756] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T10:12:48.287474 #7756] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T10:12:48.287474 #7756] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496905968&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=6fc67461-4da5-44f1-9d8c-b2e3ce8946b2&channel=notifications.*&signature=3qX6KuQeDq8tw97ylZ4iy-MRbWyFQBQtJ9Ue5aCLAMQ=
+D, [2017-06-08T10:12:48.440523 #7756] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T10:12:48.441490 #7756] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T10:12:48.441490 #7756] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-08T11:01:35.419692 #11516]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-08T11:01:35.421690 #11516] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:01:35.422693 #11516] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:01:35.422693 #11516] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:01:35.424692 #11516] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496908895&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=ea6c5dae-e343-49bb-9477-b9989232695d&channel=video.*&signature=RTDJLeuhXZdtahs83sA2da0KmihFnpTfAO_FEJzqPVk=
+D, [2017-06-08T11:01:35.733710 #11516] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:01:35.733710 #11516] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:01:35.733710 #11516] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T11:01:35.735703 #11516] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:01:35.736704 #11516] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:01:35.736704 #11516] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:01:35.737705 #11516] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496908895&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=ea6c5dae-e343-49bb-9477-b9989232695d&channel=video.*&signature=VByTh0bGJtyIYBqaMs5cnCS7hd47sAHGeUSNAV3AVBg=
+D, [2017-06-08T11:01:35.901717 #11516] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:01:35.901717 #11516] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:01:35.901717 #11516] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T11:01:35.903720 #11516] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:01:35.903720 #11516] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:01:35.904708 #11516] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:01:35.904708 #11516] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496908895&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=ea6c5dae-e343-49bb-9477-b9989232695d&channel=notifications.*&signature=u4jrRWg0C68OWrRbgqSjGFhFO7DPjHCj8CY2lBtCpPE=
+D, [2017-06-08T11:01:36.078727 #11516] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:01:36.079729 #11516] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:01:36.079729 #11516] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-08T11:02:31.757247 #7216]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-08T11:02:31.759197 #7216] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:02:31.759197 #7216] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:02:31.760195 #7216] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:02:31.761196 #7216] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496908951&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=027f3442-6792-4b79-9c67-afea2cfd847b&channel=video.*&signature=OulT5XcW_ZUJVQFtvzRXDcznML_m53-C7iTYPR_bHIY=
+D, [2017-06-08T11:02:31.992207 #7216] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:02:31.993208 #7216] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:02:31.993208 #7216] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T11:02:31.995214 #7216] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:02:31.995214 #7216] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:02:31.995214 #7216] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:02:31.996208 #7216] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496908951&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=027f3442-6792-4b79-9c67-afea2cfd847b&channel=video.*&signature=lslWPQfa4oCXLmrXoiMJ6oJnaeqYYxNPGeaMthNNsC0=
+D, [2017-06-08T11:02:32.163222 #7216] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:02:32.164216 #7216] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:02:32.164216 #7216] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T11:02:32.166215 #7216] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:02:32.166215 #7216] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:02:32.167215 #7216] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:02:32.167215 #7216] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496908952&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=027f3442-6792-4b79-9c67-afea2cfd847b&channel=notifications.*&signature=XIEmphAR4P-tRX4-B7CDvNfXlHfI7u1lXhn_qkw-t2k=
+D, [2017-06-08T11:02:32.329234 #7216] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:02:32.330229 #7216] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:02:32.330229 #7216] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-08T11:06:02.065554 #5116]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-08T11:06:02.067552 #5116] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:06:02.068563 #5116] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:06:02.068563 #5116] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:06:02.070563 #5116] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496909162&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=e9d5123b-aacd-4ac0-8a9a-90b745d6c6bb&channel=video.*&signature=cTSCFQ5y0GT16c-M11NCG-W5vihE8ZEBJGdXBVeA2Gk=
+D, [2017-06-08T11:06:02.300561 #5116] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:06:02.300561 #5116] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:06:02.300561 #5116] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T11:06:02.302574 #5116] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:06:02.303572 #5116] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:06:02.303572 #5116] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:06:02.304564 #5116] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496909162&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=e9d5123b-aacd-4ac0-8a9a-90b745d6c6bb&channel=video.*&signature=PKCZSTMXbTGqCkdi6MgLNtDCvWWxd4_5F4hBSx5FEMw=
+D, [2017-06-08T11:06:02.465581 #5116] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:06:02.465581 #5116] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:06:02.466578 #5116] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-08T11:06:02.467571 #5116] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-08T11:06:02.468573 #5116] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-08T11:06:02.468573 #5116] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-08T11:06:02.469571 #5116] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1496909162&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=e9d5123b-aacd-4ac0-8a9a-90b745d6c6bb&channel=notifications.*&signature=6LiNHg0Z7H_LyZAp6KGYOJHF900ppi5BOpJjPbhELCo=
+D, [2017-06-08T11:06:02.630585 #5116] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-08T11:06:02.631583 #5116] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-08T11:06:02.631583 #5116] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+E, [2017-06-08T12:33:57.328227 #7216] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T12:33:57.328227 #7216] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T12:33:57.487243 #7216] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T12:33:57.795252 #7216] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T12:33:57.795252 #7216] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T13:34:49.203693 #7216] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T13:34:49.362700 #7216] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T14:05:48.016431 #7216] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T14:05:48.017388 #7216] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T14:05:48.177398 #7216] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-08T14:05:48.336395 #7216] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+I, [2017-06-09T21:08:56.758737 #8588]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-09T21:08:56.760735 #8588] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-09T21:08:56.761734 #8588] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-09T21:08:56.761734 #8588] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-09T21:08:56.763758 #8588] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497031736&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=ec2bddc4-7b7e-4fcf-851c-bc5ad09f1682&channel=video.*&signature=-WGNjzrHaZrDEMbdngV_tSpBzEmj_KgwZTokozJ31EE=
+D, [2017-06-09T21:08:57.558797 #8588] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-09T21:08:57.559785 #8588] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-09T21:08:57.559785 #8588] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-09T21:08:57.561773 #8588] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-09T21:08:57.561773 #8588] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-09T21:08:57.562774 #8588] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-09T21:08:57.562774 #8588] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497031737&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=ec2bddc4-7b7e-4fcf-851c-bc5ad09f1682&channel=video.*&signature=NqGJuHUTB1cNfql1Fam_2Y1v1x8C6N3zLh2ieoyf3bg=
+D, [2017-06-09T21:08:57.982799 #8588] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-09T21:08:57.982799 #8588] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-09T21:08:57.982799 #8588] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-09T21:08:57.984792 #8588] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-09T21:08:57.985791 #8588] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-09T21:08:57.985791 #8588] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-09T21:08:57.985791 #8588] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497031737&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=ec2bddc4-7b7e-4fcf-851c-bc5ad09f1682&channel=notifications.*&signature=3C9fp9Zl-lXBJOOqIwAT0cT47kJS6OGczs07RjC6cYQ=
+D, [2017-06-09T21:08:58.407864 #8588] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-09T21:08:58.407864 #8588] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-09T21:08:58.407864 #8588] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-09T21:11:33.634717 #9868]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-09T21:11:33.635716 #9868] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-09T21:11:33.636772 #9868] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-09T21:11:33.637720 #9868] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-09T21:11:33.638716 #9868] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497031893&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=0b061af9-4cc5-48a9-8151-059efcc839d1&channel=video.*&signature=DYreGvj15PsukcBv5R2ySII5SdemSqdJq330MwhZ-xo=
+D, [2017-06-09T21:11:34.365755 #9868] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-09T21:11:34.365755 #9868] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-09T21:11:34.366750 #9868] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-09T21:11:34.367748 #9868] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-09T21:11:34.368762 #9868] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-09T21:11:34.368762 #9868] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-09T21:11:34.369749 #9868] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497031894&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=0b061af9-4cc5-48a9-8151-059efcc839d1&channel=video.*&signature=ZZept5au6F51Bo1lMQzuISL95aa-ZXYfbcWYXyGh6Ag=
+D, [2017-06-09T21:11:34.795766 #9868] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-09T21:11:34.795766 #9868] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-09T21:11:34.796770 #9868] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-09T21:11:34.797767 #9868] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-09T21:11:34.798768 #9868] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-09T21:11:34.798768 #9868] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-09T21:11:34.799767 #9868] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497031894&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=0b061af9-4cc5-48a9-8151-059efcc839d1&channel=notifications.*&signature=k8QmKpvA7rcPJrpJ1Zw3US6huG8qHE8EReePFB5YZK4=
+D, [2017-06-09T21:11:35.226785 #9868] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-09T21:11:35.227783 #9868] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-09T21:11:35.227783 #9868] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+E, [2017-06-09T22:42:48.783288 #9868] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-09T22:42:48.936298 #9868] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-09T23:05:45.033507 #9868] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-09T23:05:45.187531 #9868] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-09T23:43:54.482356 #9868] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-09T23:43:54.639363 #9868] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T01:00:35.019073 #9868] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T01:00:35.020018 #9868] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T01:00:35.181029 #9868] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T01:00:35.341033 #9868] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+I, [2017-06-10T10:26:36.694120 #12280]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-10T10:26:36.696121 #12280] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:26:36.696121 #12280] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:26:36.697131 #12280] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:26:36.698121 #12280] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497079596&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=976b1193-6b18-49aa-ba99-6e340fe9558b&channel=video.*&signature=KoEQ9bKUUOtoK4Y-T15ilNiuGg8gieJ_yFacXDOx6sU=
+D, [2017-06-10T10:26:37.007078 #12280] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:26:37.007078 #12280] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:26:37.007078 #12280] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:26:37.009084 #12280] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:26:37.010082 #12280] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:26:37.010082 #12280] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:26:37.011082 #12280] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497079597&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=976b1193-6b18-49aa-ba99-6e340fe9558b&channel=video.*&signature=rmdkj9fsLyFbI8_6Fbm8kGOyjRiZbpDcCu0C2l24yoo=
+D, [2017-06-10T10:26:37.183095 #12280] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:26:37.184094 #12280] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:26:37.184094 #12280] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:26:37.186090 #12280] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:26:37.186090 #12280] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:26:37.187091 #12280] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:26:37.187091 #12280] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497079597&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=976b1193-6b18-49aa-ba99-6e340fe9558b&channel=notifications.*&signature=9bEdhgFmOqY5qs4aWYiCg3IERMRhLbewK1jQpt3PMns=
+D, [2017-06-10T10:26:37.350094 #12280] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:26:37.350094 #12280] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:26:37.350094 #12280] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-10T10:43:40.749898 #2880]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-10T10:43:40.751858 #2880] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:43:40.752843 #2880] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:43:40.752843 #2880] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:43:40.754846 #2880] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497080620&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=c708b9db-125c-4499-89ed-332a005d2e01&channel=video.*&signature=Oqo6ZN8IrAbyZ0ix4cNEH4Em8gC34nBsaz25C3ACzig=
+D, [2017-06-10T10:43:41.044908 #2880] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:43:41.045909 #2880] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:43:41.045909 #2880] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:43:41.047919 #2880] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:43:41.047919 #2880] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:43:41.048911 #2880] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:43:41.048911 #2880] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497080621&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=c708b9db-125c-4499-89ed-332a005d2e01&channel=video.*&signature=xbjfYqMPoXBCY9tiRtIirpRMJz2W5tLxgIksSt6kXOM=
+D, [2017-06-10T10:43:41.206944 #2880] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:43:41.206944 #2880] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:43:41.207955 #2880] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:43:41.208956 #2880] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:43:41.209949 #2880] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:43:41.209949 #2880] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:43:41.209949 #2880] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497080621&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=c708b9db-125c-4499-89ed-332a005d2e01&channel=notifications.*&signature=yQcmYOV6kCq9fgxdsjPPPBnxPgMzFsPmYUJ80DuvIWc=
+D, [2017-06-10T10:43:41.362992 #2880] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:43:41.363989 #2880] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:43:41.363989 #2880] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-10T10:43:55.609115 #2444]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-10T10:43:55.611118 #2444] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:43:55.611118 #2444] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:43:55.611118 #2444] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:43:55.613073 #2444] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497080635&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=f6c5b36c-7feb-42fe-8731-274229982ab8&channel=video.*&signature=y3MtvbtXgdo3wuTN7v1vkoNBNTlugu_vJ9SFpWtDDdU=
+D, [2017-06-10T10:43:55.829116 #2444] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:43:55.829116 #2444] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:43:55.829116 #2444] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:43:55.831125 #2444] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:43:55.831125 #2444] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:43:55.832120 #2444] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:43:55.832120 #2444] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497080635&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f6c5b36c-7feb-42fe-8731-274229982ab8&channel=video.*&signature=BaOirYloyxQyGVroHnIGpNl0ztFFG4QHPIzLJsweV3E=
+D, [2017-06-10T10:43:55.983150 #2444] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:43:55.983150 #2444] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:43:55.984157 #2444] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:43:55.985157 #2444] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:43:55.986151 #2444] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:43:55.986151 #2444] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:43:55.987152 #2444] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497080635&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=f6c5b36c-7feb-42fe-8731-274229982ab8&channel=notifications.*&signature=B5xBMKfZAUrE6bQMrClRuDMWfPGm9nddHBj1VwASBLE=
+D, [2017-06-10T10:43:56.138190 #2444] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:43:56.139192 #2444] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:43:56.139192 #2444] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-10T10:52:55.160746 #9676]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-10T10:52:55.162746 #9676] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:52:55.162746 #9676] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:52:55.163701 #9676] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:52:55.164695 #9676] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497081175&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=607e72c1-e5ee-4c2b-93cf-5e7b885928bc&channel=video.*&signature=Tz-7_S4JdDAQjDORoA01pnyWXkNVRJfUbozBjUU6DZI=
+D, [2017-06-10T10:52:55.457722 #9676] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:52:55.458713 #9676] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:52:55.458713 #9676] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:52:55.460728 #9676] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:52:55.460728 #9676] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:52:55.461715 #9676] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:52:55.461715 #9676] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497081175&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=607e72c1-e5ee-4c2b-93cf-5e7b885928bc&channel=video.*&signature=WkGZBfvoZuE2kXQfxeXYAWgXPB1HtKuaMGrtRNffBn8=
+D, [2017-06-10T10:52:55.612737 #9676] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:52:55.612737 #9676] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:52:55.612737 #9676] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:52:55.614725 #9676] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:52:55.615725 #9676] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:52:55.615725 #9676] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:52:55.616727 #9676] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497081175&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=607e72c1-e5ee-4c2b-93cf-5e7b885928bc&channel=notifications.*&signature=Z6tSSnhb6ax0DKf6d_rpP2vB_eXZly9i8lLmeoyYGhU=
+D, [2017-06-10T10:52:55.767738 #9676] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:52:55.767738 #9676] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:52:55.767738 #9676] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-10T10:59:30.104351 #3880]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-10T10:59:30.105308 #3880] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:59:30.106302 #3880] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:59:30.106302 #3880] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:59:30.106302 #3880] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497081570&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=d991eda2-8acd-41ab-91e7-9e40e05d79f6&channel=video.*&signature=AoaEAFduGYs3ceHGC14-4imSq556u_Pze5PD7lZyZJw=
+D, [2017-06-10T10:59:30.878350 #3880] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:59:30.879354 #3880] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:59:30.879354 #3880] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:59:30.881343 #3880] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:59:30.882342 #3880] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:59:30.882342 #3880] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:59:30.882342 #3880] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497081570&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=d991eda2-8acd-41ab-91e7-9e40e05d79f6&channel=video.*&signature=3u3xvyiIRgq8KPqPROZEdN4a_-PxwXdFA1eSBEz3nQc=
+D, [2017-06-10T10:59:31.287366 #3880] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:59:31.288370 #3880] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:59:31.288370 #3880] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T10:59:31.289364 #3880] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T10:59:31.290363 #3880] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T10:59:31.290363 #3880] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T10:59:31.291363 #3880] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497081571&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=d991eda2-8acd-41ab-91e7-9e40e05d79f6&channel=notifications.*&signature=7OFEKTsvwXnCZ-VdrytDNyP8QoWpmdmeo5a96Fzmwek=
+D, [2017-06-10T10:59:31.696394 #3880] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T10:59:31.696394 #3880] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T10:59:31.697385 #3880] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-10T17:29:22.133151 #9032]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-10T17:29:22.134150 #9032] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T17:29:22.134150 #9032] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T17:29:22.134150 #9032] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T17:29:22.135149 #9032] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497104962&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=76e4bbc4-6822-4075-b10a-9635497d9d5b&channel=video.*&signature=zf711CkxL7d2zMaeLmlPqNdWsNLfDS2-aVrbQHjGUgQ=
+D, [2017-06-10T17:29:22.972194 #9032] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T17:29:22.973193 #9032] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T17:29:22.973193 #9032] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T17:29:22.975205 #9032] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T17:29:22.975205 #9032] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T17:29:22.976194 #9032] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T17:29:22.976194 #9032] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497104962&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=76e4bbc4-6822-4075-b10a-9635497d9d5b&channel=video.*&signature=kant3CmOyKYisar_g7cqy97ZxwhZc-HmhYV1JJVSYHU=
+D, [2017-06-10T17:29:23.419221 #9032] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T17:29:23.420212 #9032] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T17:29:23.420212 #9032] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T17:29:23.422223 #9032] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T17:29:23.422223 #9032] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T17:29:23.423216 #9032] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T17:29:23.423216 #9032] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497104963&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=76e4bbc4-6822-4075-b10a-9635497d9d5b&channel=notifications.*&signature=ieRIjomy_4-RW8OmSU6tEg4HzKXWUitiA2BJMxi7gpI=
+D, [2017-06-10T17:29:23.901288 #9032] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T17:29:23.902245 #9032] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T17:29:23.902245 #9032] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2017-06-10T17:30:41.771777 #7700]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-10T17:30:41.773751 #7700] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T17:30:41.774752 #7700] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T17:30:41.774752 #7700] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T17:30:41.775776 #7700] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497105041&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=d79bd2af-a3c0-4af8-b5ac-ef65b4cb2dd0&channel=video.*&signature=pRLZyrpDRkBALGN-5xGlZHfsoqvsWTrlYjNPumoAz6A=
+D, [2017-06-10T17:30:42.530733 #7700] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T17:30:42.530733 #7700] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T17:30:42.531735 #7700] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T17:30:42.532733 #7700] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T17:30:42.533733 #7700] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T17:30:42.533733 #7700] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T17:30:42.534733 #7700] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497105042&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=d79bd2af-a3c0-4af8-b5ac-ef65b4cb2dd0&channel=video.*&signature=mjBcL0CDxwveV9z6tBlp-nBuThyuB1FoxmoC-elqHl0=
+D, [2017-06-10T17:30:43.006753 #7700] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T17:30:43.007759 #7700] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T17:30:43.007759 #7700] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-10T17:30:43.009755 #7700] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-10T17:30:43.009755 #7700] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-10T17:30:43.009755 #7700] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-10T17:30:43.010752 #7700] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497105043&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=d79bd2af-a3c0-4af8-b5ac-ef65b4cb2dd0&channel=notifications.*&signature=D3THBg2gYY0VpTw0DGCewjf68kHYagtFROOZUDGlKdY=
+D, [2017-06-10T17:30:43.468827 #7700] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-10T17:30:43.468827 #7700] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-10T17:30:43.469778 #7700] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+E, [2017-06-10T19:01:02.090831 #7700] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T19:01:02.242843 #7700] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T19:23:52.410805 #7700] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T19:23:52.565801 #7700] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T20:01:53.212204 #7700] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T20:01:53.213128 #7700] ERROR -- : Actor crashed!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:239:in `block in after'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/timer.rb:98:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:43:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:81:in `block in fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `reverse_each'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/events.rb:80:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:95:in `fire'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/timers-4.1.2/lib/timers/group.rb:80:in `wait'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:152:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T20:01:53.369137 #7700] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+E, [2017-06-10T20:01:53.523148 #7700] ERROR -- : Actor#handle_crash CRASHED!
+Celluloid::DeadTaskError: cannot resume a dead task (can't create fiber)
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:30:in `rescue in deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task/fibered.rb:26:in `deliver'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/task.rb:83:in `resume'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:341:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:72:in `task'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/cell.rb:97:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:306:in `shutdown'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:299:in `handle_crash'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:171:in `rescue in run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:150:in `run'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor.rb:131:in `block in start'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-essentials-0.20.5/lib/celluloid/internals/thread_handle.rb:14:in `block in initialize'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/actor/system.rb:78:in `block in get_thread'
+	C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/celluloid-0.17.3/lib/celluloid/group/spawner.rb:50:in `block in instantiate'
+I, [2017-06-11T00:31:54.936555 #11584]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2017-06-11T00:31:54.938554 #11584] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-11T00:31:54.939564 #11584] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-11T00:31:54.939564 #11584] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-11T00:31:54.940555 #11584] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497130314&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=18aaf9bc-4385-4434-8c91-9dc4a877d472&channel=video.*&signature=-45u8y2nljIsXkLqak26ugl2qobhp6uKYxgjf_EWGdM=
+D, [2017-06-11T00:31:55.779599 #11584] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-11T00:31:55.779599 #11584] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-11T00:31:55.779599 #11584] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-11T00:31:55.781594 #11584] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-11T00:31:55.782594 #11584] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-11T00:31:55.782594 #11584] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-11T00:31:55.783595 #11584] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497130315&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=18aaf9bc-4385-4434-8c91-9dc4a877d472&channel=video.*&signature=MQxgH_MoRc8kjzWBmPjicgRtF3Ahu_MjfCAkXpadgkc=
+D, [2017-06-11T00:31:56.235624 #11584] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-11T00:31:56.236672 #11584] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-11T00:31:56.236672 #11584] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-06-11T00:31:56.238617 #11584] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-06-11T00:31:56.239665 #11584] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-06-11T00:31:56.239665 #11584] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2017-06-11T00:31:56.239665 #11584] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-de419fd6-1afc-11e7-bc52-02ee2ddab7fe?timestamp=1497130316&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&auth=e1ad82c626cc0145c1325f653abb9b32de062dd64ddbfebab5c948bb47b53f8cdd18ef907479b33e41349db4800e44cd2aefcc55bccd908ac143631ceae6b525&uuid=18aaf9bc-4385-4434-8c91-9dc4a877d472&channel=notifications.*&signature=bycQijsHvaITSTGFrb4YsK-HzJzRtG4BjpmE-ktKpXU=
+D, [2017-06-11T00:31:56.684690 #11584] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-06-11T00:31:56.684690 #11584] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2017-06-11T00:31:56.685636 #11584] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant

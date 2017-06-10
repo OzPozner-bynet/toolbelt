@@ -1,0 +1,17 @@
+<table>
+  <tr>
+    <th>Actions</th>
+    <th>Key</th>
+    <th>Value</th>
+ </tr>
+  <% @settings.each do |s| %>
+  <tr>
+    <td><%= link_to 'edit', edit_admin_setting_path(s[0]) %></td>
+    <td><%= s[0] %></td>
+	<td><%= s[1] %></td>
+  </tr>
+  <% end %>
+  <tr>
+    <td><%= link_to 'new', new_admin_setting_path %></td>
+  </tr>
+</table>

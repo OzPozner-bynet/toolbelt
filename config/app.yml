@@ -1,0 +1,15 @@
+# config/app.yml for rails-settings-cached
+defaults: &defaults
+  foo: "Foo"
+  zoiper_display: "block"
+  zoiper_width: 437
+  zoiper_height: 200
+  zopier_show: true
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults
