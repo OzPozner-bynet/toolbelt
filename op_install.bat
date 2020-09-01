@@ -1,5 +1,7 @@
 @echo off
 @SET var_path=%cd%
+@SET bynet_tb_path=%cd%
+SetX bynet_tb_path %cd%
 ECHO installing in path: %var_path%
 @mkdir c:\temp >>nul
 @cd c:\temp
@@ -34,11 +36,14 @@ rem setting requirements for op.rb
 @echo Setting requirements for op.rb
 mkdir c:\temp\logs >>nul
 mkdir c:\temp\log >>nul
-gem install net-ping win32-security logger snmp rego
+cd %bynet_tb_path%
+bundle install
+gem install net-ping win32-security logger snmp rego net-telnet parseconfig hash_parser
+gem install csv -v '3.1.3'
+
+
 GOTO end
 :temp_path_error
 Echo Can't create path c:\temp  rerun after cmd "mkdir c:\temp" succsed! aborting install
 :end
-cd %var_path%
-bundle install
-@echo Done installation
+@echo Done installation %TIME%

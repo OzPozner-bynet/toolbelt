@@ -69,3 +69,7 @@ end
 
 gem 'coffee-script-source', '1.8.0'
 gem "rails-settings-cached"
+
+gem "csv", '3.1.3'
+gem 'parseconfig'
+gem 'hash_parser'

@@ -15,7 +15,7 @@ goto version2
 goto end
 
 :version2
-	ra ruby c:\bynet\tools\ruby\op.rb %*
+if "%bynet_tb_path%"=="" (ra ruby c:\bynet\tools\ruby\op.rb %*) else (ra ruby %bynet_tb_path%\ruby\op.rb %*)
 goto end
 :end
 

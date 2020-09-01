@@ -3,23 +3,27 @@ require 'csv'
 #require 'rails/all'
 require 'date'
 require 'snmp'
+require 'rubygems'
+require 'parseconfig'
+require 'hash_parser'
 
 # Initialize the rails application
-puts "<host> <executions> <out_file> "
+puts "run cmd with options: <host> <executions> <out_file> or edit 'Settings.rb' file"
 #move to INI File
-  VERSION = "2.01"
+  @toolbelt_path = ENV.fetch("bynet_tb_path",'C:/bynet/tools')
+  VERSION = "3.0.1"
   pingHosts = Hash.new
-  pingHosts = { :HBS => '10.0.0.120'};
-  hbs_IP = { :HBS_0 => '10.0.0.120',:HBS_1 => '65.15.0.185', :HBS_2 => '65.15.0.67',  :HBS_3 => '65.15.0.157', :HBS_4 => '65.15.0.47', 
-          :HBS_5 => '65.15.0.40', :HBS_6 => '65.15.0.101', :HBS_7 => '65.15.0.21', :HBS_8 => '0.0.0.0' , :HBS_9 => '65.15.0.101'};
-		  
-  hmus_IP = { :HMU_1 => '65.15.0.12'};        
   hbs_oids_r = ""
  # hmus_oids_r = ""
   delay = "Pings off";
   gps_last = "GPS off"
   mySNMPDATA="";
   varbind_seperator=" ";
+  pingHosts = { :HBS => '10.0.0.120'};
+  hbs_IP = { :HBS_0 => '10.0.0.120',:HBS_1 => '65.15.0.185', :HBS_2 => '65.15.0.67',  :HBS_3 => '65.15.0.157', :HBS_4 => '65.15.0.47', 
+           :HBS_5 => '65.15.0.40', :HBS_6 => '65.15.0.101', :HBS_7 => '65.15.0.21', :HBS_8 => '0.0.0.0' , :HBS_9 => '65.15.0.101'};
+       
+  hmus_IP = { :HMU_1 => '65.15.0.12'};    
   hbs_OIDs = { 
 			  # :my_hbs1 => '1.3.6.1.4.1.4458.1000.3.1.7.2.1.13.1' ,	
 			  # :state => '1.3.6.1.4.1.4458.1000.3.1.7.2.1.5.1',
@@ -67,7 +71,27 @@ puts "<host> <executions> <out_file> "
   Existingfileopenmode = 'a+';
   targetIP = pingHosts[:BH];
   manager=nil;
-#************************ end of Settings ****************************88
+
+#************************ overide Settings from ini file Settings.ini ****************************  
+#require_relative 'settings'
+#load  @toolbelt_path+'\DriveTest\settings.ini'
+if File.file?(@toolbelt_path+'\DriveTest\settings.ini') then
+  config = ParseConfig.new(@toolbelt_path+'\DriveTest\settings.ini')
+  hbs_IP = config['hbs_IP']||hbs_IP
+  hbs_IP = HashParser.new.safe_load(hbs_IP)
+  puts "HBS_IPs:#{hbs_IP}"
+  hmus_IP = config['hmus_IP']||hmus_IP
+  hmus_IP = HashParser.new.safe_load(hmus_IP)
+  puts "HMU(s) IP(s)= #{hmus_IP}"
+  pingHosts = config['pingHosts']||pingHost
+  pingHosts = HashParser.new.safe_load(pingHosts)
+  puts "pingHosts=#{pingHosts}"
+  executions = (config['executions']||executions).to_i
+  puts "executions=#{executions}"
+  gps = (config['gps']||gps).to_s.downcase == "true"
+  puts "Use GPS=#{gps}"
+end
+#************************ end of Settings ****************************
   gps1      = Hash.new; 
   gps2      = Hash.new;
   bh        = Hash.new;
@@ -128,12 +152,12 @@ puts "<host> <executions> <out_file> "
 def clean_str(mystring)
  if mystring.nil? then
 	   return nil
-	 end
+ end
  if mystring.include?  " " then
      return fix_str(mystring)
-  else	 
+ else	 
 	 return mystring.gsub(/@value="/,'').gsub(/>/,'')
-  end		 
+ end		 
 end
 
 
@@ -238,13 +262,13 @@ def su_hbs (host)
   end
 end  
 
-puts ("HW version for #{pingHosts[:HBS]} is #{hwVersion(pingHosts[:HBS])}")
+puts ("HW version for #{pingHosts[:HBS]||'error'} is #{hwVersion(pingHosts[:HBS]||'error')}")
 
 ## ************* END of SNMP FUNCTIONS *****************
 
 def ping (host) 
   line_id=0;
-  IO.popen("#{'C:/bynet/tools/net/Fping.exe'} #{host} -t 2ms -o -n 2 -w #{PINGTIMEOUT}") {
+  IO.popen("#{@toolbelt_path+'/net/Fping.exe'} #{host} -t 2ms -o -n 2 -w #{PINGTIMEOUT}") {
          |io| while (line = io.gets) do 
            # puts line
             line_id+=1;
@@ -267,7 +291,7 @@ def pingj (host)
   jitter_total=0.0
   jitter_avg = 0
   avg_delay = 0
-  IO.popen("'C:/bynet/tools/net/Fping.exe'} #{host} -t 2ms -j -n 2 -w #{PINGTIMEOUT}") {
+  IO.popen(@toolbelt_path+"'/net/Fping.exe'} #{host} -t 2ms -j -n 2 -w #{PINGTIMEOUT}") {
          |io| while (line = io.gets) do 
            # puts line
             line_id+=1;
@@ -297,8 +321,8 @@ end
 
 puts pingHosts
 puts ("connect to device #{myhost}"+"  output file #{myfile}");
-puts ("delay to HBS("+pingHosts[:HBS]+"): "+ping(pingHosts[:HBS])+" ms");
-puts ("delay to monitored device(#{myhost}):"+ping(myhost)+" ms");
+puts ("delay to HBS("+"#{pingHosts[:HBS]||" error "}"+"): "+ping(pingHosts[:HBS]||"127.0.0.1")+" ms");
+puts ("delay to monitored device(#{myhost||"Error"}):"+"#{ping(myhost)||'error'}"+" ms");
 puts ("using jitter: #{jpings}")
 # alon + oz fixme telnet set false from true
 
