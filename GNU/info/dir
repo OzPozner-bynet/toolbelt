@@ -1,21 +1,13 @@
-This is the file .../info/dir, which contains the
-topmost node of the Info hierarchy, called (dir)Top.
-The first time you invoke Info you start off looking at this node.
+Dit is het bestand .../info/dir, dat de bovenste pagina van
+de Info-documentenhiërarchie bevat, genaamd '(dir)Top'.
+Info gestart zonder argumenten begint op deze pagina.
 
-File: dir,	Node: Top	This is the top of the INFO tree
+File: dir,	Node: Top	Dit is de top van de INFO-boom
 
-  This (the Directory node) gives a menu of major topics.
-  Typing "q" exits, "?" lists all Info commands, "d" returns here,
-  "h" gives a primer for first-timers,
-  "mEmacs<Return>" visits the Emacs manual, etc.
-
-  In Emacs, you can click mouse button 2 on a menu item or cross reference
-  to select it.
+  Deze inhoudspagina toont een menu met hoofdonderwerpen.
+  Een "q" sluit het programma af, een "d" brengt u hier terug,
+  "?" toont een hulpvenster met alle Info-commando's,
+  "h" gaat naar een handleiding voor nieuwe gebruikers,
+  "mls<Enter>" toont u de pagina's van het 'ls'-commando, enzovoort.
 
 * Menu:
-
-Individual utilities
-* which: (which)which invocation.               Shows the full path of commands
-
-System administration
-* Which: (which).                               Show full path of commands.
